@@ -40,3 +40,11 @@ A Facilitator’s responsibilities
 ### 3. Developer Circles Training Courses
 
 What is the Developer Circles Training Courses?
+
+Developer Circles Training Courses is a series of premium online training opportunities to a limited number of developers that provide tools for members to grow their core technology skill sets and boost their career growth.
+The training courses launched in May 2020 and provided access to three different leading online education Developer Circles’ partners, the first one is OpenClassrooms where the beneficiaries will have a Premium Solo 3-month subscription to learn Font-End Web Development. The second one is DataCamp to learn Data Science for 5 weeks. The third one is Udacity to learn Deep Learning for 4 months.
+
+Join specific group to learn more with fellow developers: 
+- [Developer Circles: Web Development](https://www.facebook.com/groups/1798336670201974/)
+- [Developer Circles: Machine Learning](https://www.facebook.com/groups/959521250838697/)
+- [Developer Circles: Data](https://www.facebook.com/groups/138761710178602/)
