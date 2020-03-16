@@ -1,8 +1,11 @@
 
 # General information for study groups 
 
-We're excited to have everyone onboard! 
+## We're excited to have everyone onboard! 
+
 ![Image description](https://miro.medium.com/max/1920/1*pDwmFT12PEzogBg1StW1Ew.jpeg)
+
+![Image description](https://miro.medium.com/max/1920/1*GDIbYl7hmWjDynMwl-Qj6Q.jpeg)
 
 **What is Developer Circles from Facebook?**
 ```
