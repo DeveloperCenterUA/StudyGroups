@@ -2,6 +2,7 @@
 # General information for study groups 
 
 We're excited to have everyone onboard! 
+![Image description](https://miro.medium.com/max/1920/1*pDwmFT12PEzogBg1StW1Ew.jpeg)
 
 **What is Developer Circles from Facebook?**
 ```
@@ -44,10 +45,9 @@ This group is dedicated for discussion amongst Developer Circles Study Group Fac
 
 ### 3. Developer Circles Training Courses
 
-What is the Developer Circles Training Courses?
+**What is the Developer Circles Training Courses?**
 
-Developer Circles Training Courses is a series of premium online training opportunities to a limited number of developers that provide tools for members to grow their core technology skill sets and boost their career growth.
-The training courses launched in May 2020 and provided access to three different leading online education Developer Circles’ partners, the first one is OpenClassrooms where the beneficiaries will have a Premium Solo 3-month subscription to learn Font-End Web Development. The second one is DataCamp to learn Data Science for 5 weeks. The third one is Udacity to learn Deep Learning for 4 months.
+Developer Circles from Facebook today launched 2019 Training Courses, a set of premium online training opportunities that provide tools for members to grow their core technology skill sets. The Training Courses are delivered online through a number of partners, including OpenClassrooms, DataCamp, and Udacity. Participants will also be invited to join specific Training Courses Facebook Groups upon selection.
 
 Join specific group to learn more with fellow developers: 
 - [Developer Circles: Web Development](https://www.facebook.com/groups/1798336670201974/)
