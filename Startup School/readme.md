@@ -6,3 +6,5 @@ Built in partnership with Google, this program mixes theory and practice to show
 - [**App Monetization**](https://www.udacity.com/course/app-monetization--ud518)
 - [**Rapid Prototyping**](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [**App Marketing**](https://www.udacity.com/course/app-marketing--ud719)
+- [**Get Your Startup Started**](https://www.udacity.com/course/get-your-startup-started--ud806)
+
