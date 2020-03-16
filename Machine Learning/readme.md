@@ -10,4 +10,5 @@ This program will teach you how to become a machine learning engineer, and apply
 - [**Deep Learning**](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [**Artificial Intelligence for Robotics**](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [**Machine Learning for Trading**](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- [**Machine Learning Interview Preparation**](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
