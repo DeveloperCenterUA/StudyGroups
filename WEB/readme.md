@@ -1,3 +1,11 @@
+**What is the Developer Circles Training Courses?**
+
+Developer Circles from Facebook today launched 2019 Training Courses, a set of premium online training opportunities that provide tools for members to grow their core technology skill sets. The Training Courses are delivered online through a number of partners, including OpenClassrooms, DataCamp, and Udacity. Participants will also be invited to join specific Training Courses Facebook Groups upon selection.
+
+Join specific group to learn more with fellow developers: 
+- [Developer Circles: Web Development](https://www.facebook.com/groups/1798336670201974/)
+
+
 ## Front-End Web Developer Nanodegree
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
 Learn the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
