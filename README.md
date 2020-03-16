@@ -1,7 +1,9 @@
 # Study Groups
-Information for study groups 
+General information for study groups 
 ### 0. Format
-- 
+- 100% online 
+- self learning and comminication inside group 
+- free course access 
 
 ### 1. Communication
 
@@ -15,10 +17,14 @@ Join specific Track :
 - **#vr_study_group** - VR/AR Study Group 
 
 If you need mentor suport or looking for more expirienced developer in your field or you want get some help -  please look into 
-[Facebook Mentorship Program](www.facebook.com/fbmentorship/signup/?application_id=631295117371247). 
+[Facebook Mentorship Program](www.facebook.com/fbmentorship/signup/?application_id=631295117371247) or write specific question inside group - [Facebook Developer Circle](https://www.facebook.com/groups/devCKyiv/)
 
 
 ### 2. Group Facilitator
 
 A Facilitator’s responsibilities
 >The primary goal of a Study Group Facilitator is to ensure that Developer Circles members in the Developer Circles Training Program from my circle complete the online training course while supporting them through offline Study Group meetups and online in the Training Courses Facebook Groups.
+
+### 3. Developer Circles Training Courses
+
+What is the Developer Circles Training Courses?
