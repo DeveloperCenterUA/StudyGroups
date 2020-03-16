@@ -1,5 +1,3 @@
-WEB
-
 ## Front-End Web Developer Nanodegree
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
 Learn the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
