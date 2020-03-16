@@ -1,7 +1,7 @@
 
-# General information for study groups 
+# :man_technologist: General information for study groups :woman_technologist:
 
-## We're excited to have everyone onboard! 
+ ## :space_invader: We're excited to have everyone onboard! :space_invader:
 
 ![Image description](https://miro.medium.com/max/1920/1*pDwmFT12PEzogBg1StW1Ew.jpeg)
 
