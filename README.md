@@ -37,6 +37,8 @@ If you need mentor suport or looking for more expirienced developer in your fiel
 A Facilitator’s responsibilities
 >The primary goal of a Study Group Facilitator is to ensure that Developer Circles members in the Developer Circles Training Program from my circle complete the online training course while supporting them through offline Study Group meetups and online in the Training Courses Facebook Groups.
 
+If you approved to be group facilitator join the [group](https://www.facebook.com/groups/DevCStudyGroupFacilitators/) (only for approved Group Facilitators!)   
+
 ### 3. Developer Circles Training Courses
 
 What is the Developer Circles Training Courses?
