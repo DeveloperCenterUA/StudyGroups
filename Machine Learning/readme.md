@@ -1,3 +1,12 @@
+**What is the Developer Circles Training Courses?**
+
+Developer Circles from Facebook today launched 2019 Training Courses, a set of premium online training opportunities that provide tools for members to grow their core technology skill sets. The Training Courses are delivered online through a number of partners, including OpenClassrooms, DataCamp, and Udacity. Participants will also be invited to join specific Training Courses Facebook Groups upon selection.
+
+Join specific group to learn more with fellow developers: 
+
+- [Developer Circles: Machine Learning](https://www.facebook.com/groups/959521250838697/)
+
+
 ## Machine Learning 
 
 Machine Learning Engineer Nanodegree
