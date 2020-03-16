@@ -3,9 +3,13 @@
 
 **What is Developer Circles from Facebook?**
 ```
-Developer Circles from Facebook are communities of innovators, where aspiring and experienced developers receive free tools to build new skills, grow ideas and boost their careers.
-Each Circle is managed by a developer community leader who supports an online Facebook Group, hosts local events, and shares the latest news on Facebook technologies.
-Members benefit from expanding their networks with fellow developers and industry experts, gaining special access to educational resources from the Facebook team and partners, and taking part in a range of skillset and career-building initiatives.
+Developer Circles from Facebook are communities of innovators, where aspiring and experienced developers 
+receive free tools to build new skills, grow ideas and boost their careers.
+Each Circle is managed by a developer community leader who supports an online Facebook Group,
+hosts local events, and shares the latest news on Facebook technologies.
+Members benefit from expanding their networks with fellow developers and industry experts, 
+gaining special access to educational resources from the Facebook team and partners, 
+and taking part in a range of skillset and career-building initiatives.
 ```
 
 ### 0. Format
