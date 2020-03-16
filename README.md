@@ -1,6 +1,8 @@
 
 # General information for study groups 
 
+We're excited to have everyone onboard! 
+
 **What is Developer Circles from Facebook?**
 ```
 Developer Circles from Facebook are communities of innovators, where aspiring and experienced developers 
@@ -37,7 +39,8 @@ If you need mentor suport or looking for more expirienced developer in your fiel
 A Facilitator’s responsibilities
 >The primary goal of a Study Group Facilitator is to ensure that Developer Circles members in the Developer Circles Training Program from my circle complete the online training course while supporting them through offline Study Group meetups and online in the Training Courses Facebook Groups.
 
-If you approved to be group facilitator join the [group](https://www.facebook.com/groups/DevCStudyGroupFacilitators/) (only for approved Group Facilitators!)   
+If you approved to be group facilitator join the [group](https://www.facebook.com/groups/DevCStudyGroupFacilitators/) (only for approved Group Facilitators!) 
+This group is dedicated for discussion amongst Developer Circles Study Group Facilitators. Facilitators are volunteers who will be leading study groups with Developer Circle members participating in training groups. 
 
 ### 3. Developer Circles Training Courses
 
