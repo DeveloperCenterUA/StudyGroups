@@ -9,6 +9,8 @@ Join specific group to learn more with fellow developers:
 Or ask questions in our group: 
 [Developer Circle Kyiv](https://www.facebook.com/groups/devCKyiv/)
 
+All communication inside a  [Slack](https://join.slack.com/t/devckyiv/shared_invite/zt-cck4qiyp-169_rUFUjZyHJg_f9orQXg) group via channel **#ml_study_group** 
+
 
 ## Machine Learning 
 
