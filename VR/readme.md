@@ -1,4 +1,11 @@
-AR/VR
+**What is the Developer Circles Training Courses?**
+
+Developer Circles from Facebook today launched 2019 Training Courses, a set of premium online training opportunities that provide tools for members to grow their core technology skill sets. The Training Courses are delivered online through a number of partners, including OpenClassrooms, DataCamp, and Udacity. Participants will also be invited to join specific Training Courses Facebook Groups upon selection.
+
+Or ask questions in our group: 
+[Developer Circle Kyiv](https://www.facebook.com/groups/devCKyiv/)
+
+All communication inside a  [Slack](https://join.slack.com/t/devckyiv/shared_invite/zt-cck4qiyp-169_rUFUjZyHJg_f9orQXg) group via channel **#vr_study_group** 
 
 ## Game Developer Nanodegree
 
