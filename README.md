@@ -35,7 +35,7 @@ Join specific Track :
 - **#vr_study_group** - VR/AR Study Group 
 
 If you need mentor suport or looking for more expirienced developer in your field or you want get some help -  please look into 
-[Facebook Mentorship Program](www.facebook.com/fbmentorship/signup/?application_id=631295117371247) or write specific question inside group - [Facebook Developer Circle](https://www.facebook.com/groups/devCKyiv/)
+[Facebook Mentorship Program](https://www.facebook.com/groups/devCKyiv/mentorship_application/) or write specific question inside group - [Facebook Developer Circle](https://www.facebook.com/groups/devCKyiv/)
 
 
 ### 2. Group Facilitator
