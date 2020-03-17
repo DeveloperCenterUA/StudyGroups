@@ -50,7 +50,7 @@ This group is dedicated for discussion amongst Developer Circles Study Group Fac
 A Mentor’s responsibilities
 >The primary goal of a Study Group Mentor is support Developer Circles members in the Developer Circles Training Program from  circle and help them solve some learning problems and give advices. Mentor isn't a full time teacher! The person who can contribute his expirience and time for fellow develoeprs - use it wisely! 
 
-Please create your profile and register here in [group](www.facebook.com/fbmentorship/signup/?application_id=6312951173712470
+Please create your profile and register here in [group](www.facebook.com/fbmentorship/signup/?application_id=6312951173712470)
 
 ### 3. Developer Circles Training Courses
 
