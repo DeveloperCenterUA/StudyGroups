@@ -8,6 +8,8 @@ Join specific group to learn more about WEB with fellow developers:
 Or ask questions in our group: 
 [Developer Circle Kyiv](https://www.facebook.com/groups/devCKyiv/)
 
+All communication inside a  [Slack](https://join.slack.com/t/devckyiv/shared_invite/zt-cck4qiyp-169_rUFUjZyHJg_f9orQXg) group via channel **#web_study_group** 
+
 
 ## Front-End Web Developer Nanodegree
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
