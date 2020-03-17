@@ -6,6 +6,9 @@ Join specific group to learn more with fellow developers:
 
 - [Developer Circles: Machine Learning](https://www.facebook.com/groups/959521250838697/)
 
+Or ask questions in our group: 
+[Developer Circle Kyiv](https://www.facebook.com/groups/devCKyiv/)
+
 
 ## Machine Learning 
 
