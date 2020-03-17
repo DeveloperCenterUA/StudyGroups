@@ -2,8 +2,11 @@
 
 Developer Circles from Facebook today launched 2019 Training Courses, a set of premium online training opportunities that provide tools for members to grow their core technology skill sets. The Training Courses are delivered online through a number of partners, including OpenClassrooms, DataCamp, and Udacity. Participants will also be invited to join specific Training Courses Facebook Groups upon selection.
 
-Join specific group to learn more with fellow developers: 
+Join specific group to learn more about WEB with fellow developers: 
 - [Developer Circles: Web Development](https://www.facebook.com/groups/1798336670201974/)
+
+Or ask questions in our group: 
+[Developer Circle Kyiv](https://www.facebook.com/groups/devCKyiv/)
 
 
 ## Front-End Web Developer Nanodegree
@@ -23,7 +26,8 @@ Learn the fundamentals of how the web works and gain a working knowledge of the 
 - [**JavaScript Design Patterns**](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [**JavaScript Testing**](https://www.udacity.com/course/javascript-testing--ud549)
 
-This program ensures you’re supremely well-prepared to succeed in a Senior Web Developer role.
+This program ensures you’re supremely well-prepared to succeed in a 
+## Senior Web Developer role
 - [**Building High Conversion Web Forms**](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
 - [**Web Tooling & Automation**](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [**JavaScript Promises**](https://www.udacity.com/course/javascript-promises--ud898) 
