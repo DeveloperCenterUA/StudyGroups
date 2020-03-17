@@ -21,7 +21,7 @@ and taking part in a range of skillset and career-building initiatives.
 ### 0. Format
 - 100% online 
 - self learning and comminication inside group 
-- free course access 
+- free course access for every participant 
 
 ### 1. Communication
 
@@ -56,3 +56,9 @@ Join specific group to learn more with fellow developers:
 - [Developer Circles: Web Development](https://www.facebook.com/groups/1798336670201974/)
 - [Developer Circles: Machine Learning](https://www.facebook.com/groups/959521250838697/)
 - [Developer Circles: Data](https://www.facebook.com/groups/138761710178602/)
+
+How to find us?
+- [Facebook](https://fb.com/groups/devckyiv/)
+- [Telegram](https://t.me/DeveloperCircle)
+- [Instagram](https://www.instagram.com/devckyiv/)
+- [Slack](https://join.slack.com/t/devckyiv/shared_invite/zt-cck4qiyp-169_rUFUjZyHJg_f9orQXg).
