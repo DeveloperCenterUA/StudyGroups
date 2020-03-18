@@ -16,8 +16,6 @@ Or ask questions in our group:
 All communication inside a  [Slack](https://join.slack.com/t/devckyiv/shared_invite/zt-cck4qiyp-169_rUFUjZyHJg_f9orQXg) group via channel **#ds_study_group** 
 
 
-- [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r)
-
 
 ## Predictive Analytics for Business Nanodegree
 
