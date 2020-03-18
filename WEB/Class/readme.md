@@ -1,9 +1,10 @@
 # WEB Class #1 info
 
-Name            | Role         | Slack       |
-----------------|--------------|-------------|
-Tomka Koliada   | DevC lead    |@tomka.      |
-Content Cell    | Content Cell |Content Cell |
+Name            | Role              | Slack       |
+----------------|-------------------|-------------|
+Tomka Koliada   | DevC lead         | @tomka      |
+Mykhailo Kaskun | Group facilitator | @mike       |
+Content Cell    | Content Cell      |Content Cell |
 
 # Students info
 
