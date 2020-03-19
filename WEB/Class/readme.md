@@ -2,8 +2,7 @@
 
 Name            | Role              | Slack       |
 ----------------|-------------------|-------------|
-Tomka Koliada   | DevC lead         | @tomka      |
-Mykhailo Kaskun | Group facilitator | @mike       |
+Mykhailo Kaskun | WEB Lead.         | @mike       |
 Content Cell    | Content Cell      |Content Cell |
 
 # Students info
