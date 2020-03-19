@@ -1,9 +1,13 @@
 # Data Science Class #1 info
 
-Name              | Role         | Slack             |
-------------------|--------------|-------------------|
-Tomka Koliada     | DevC lead    |@tomka.            |
-Oleksiy Shashlyuk | DS Pitchbook |@Oleksiy Shashlyuk |
+Name                 | Role             | Slack                 |
+---------------------|------------------|-----------------------|
+Oleksandra Chmel     | DS Lead          | @Oleksandra Chmel     |
+Alexandra Klinnikova | group facilitator| @Alexandra Klinnikova | 
+Anna Linchak         | group facilitator| @Anna Li              |
+
+
+
 Content Cell      | Content Cell |Content Cell       |
 
 # Students info
