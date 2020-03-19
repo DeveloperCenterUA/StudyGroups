@@ -2,9 +2,8 @@
 
 Name              | Role         | Slack             |
 ------------------|--------------|-------------------|
-Tomka Koliada     | DevC lead    |@tomka.            |
-Oleksiy Shashlyuk | DS Pitchbook |@Oleksiy Shashlyuk |
-Content Cell      | Content Cell |Content Cell       |
+Oleksiy Shashlyuk | ML Lead      |@Oleksiy Shashlyuk |
+
 
 # Students info
 
