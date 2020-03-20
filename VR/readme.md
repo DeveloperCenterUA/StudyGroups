@@ -14,3 +14,6 @@ The core of this Nanodegree program is libGDX, a powerful cross-platform game de
 - 2D Game Development with libGDX
 - How to Make a Platformer Using libGDX
 - Engagement & Monetization | Mobile Games
+
+## Unity Learn 
+- [Design, Develop, and Deploy for VR](https://learn.unity.com/course/oculus-vr)
