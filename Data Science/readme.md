@@ -45,4 +45,6 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 - [**Intro to HTML and CSS**](https://www.udacity.com/course/intro-to-html-and-css--ud001) 
 - [**JavaScript Basics**](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [**A/B Testing**](https://www.udacity.com/course/ab-testing--ud257)
-
+- [**SQL for Data Analysis**](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- [**Intro to Relational Databases**](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [**Introduction to Python Programming**](https://www.udacity.com/course/introduction-to-python--ud1110)
