@@ -3,7 +3,7 @@
 Name              | Role             | Slack             |
 ------------------|------------------|-------------------|
 Oleksiy Shashlyuk | ML Lead          |@Oleksiy Shashlyuk |
-Oleksiy Shashlyuk | Group fasilitator|@Dymytr.           |
+Dymytr            | Group fasilitator|@Dymytr.           |
 
 
 
