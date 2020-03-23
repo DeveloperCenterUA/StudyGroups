@@ -26,3 +26,8 @@ This program will teach you how to become a machine learning engineer, and apply
 - [**Machine Learning for Trading**](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [**Machine Learning Interview Preparation**](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
+
+Coursera : 
+
+- [** Introduction into Machine Learning ](https://www.coursera.org/learn/machine-learning)
+
