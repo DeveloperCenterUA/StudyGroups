@@ -18,7 +18,7 @@ Learn the fundamentals of how the web works and gain a working knowledge of the 
 - [**Intro to HTML and CSS**](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [**Responsive Web Design Fundamentals**](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [**Responsive Images**](https://www.udacity.com/course/responsive-images--ud882)
-- [**JavaScript Basics**](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [**Intro to JavaScript**](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [**Intro to jQuery**](https://www.udacity.com/course/intro-to-jquery--ud245)
 - [**Object-Oriented JavaScript**](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [**HTML5 Canvas**](https://www.udacity.com/course/html5-canvas--ud292)
@@ -59,5 +59,16 @@ You’ll learn to build applications that can support any front-end, and scale t
 - [**HTTP & Web Servers**](https://www.udacity.com/course/http-web-servers--ud303) 
 - [**Designing RESTful APIs**](https://www.udacity.com/course/designing-restful-apis--ud388)
 
+## Coursera
+- [**Programming Foundations with JavaScript, HTML and CSS**](https://www.coursera.org/learn/duke-programming-web)
+- [**HTML, CSS, and Javascript for Web Developers**](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [**Front-End Web Development with React**](https://www.coursera.org/learn/front-end-react)
+- [**Front-End JavaScript Frameworks: Angular**](https://www.coursera.org/learn/angular)
+- [**Server-side Development with NodeJS, Express and MongoDB**](https://www.coursera.org/learn/server-side-nodejs)
 
-
+## edX
+- [**Exploring GraphQL: A Query Language for APIs**](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
+- [**Web App Development with the Power of Node.js**](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
+- [**Web Security Fundamentals**](https://www.edx.org/course/web-security-fundamentals)
+- [**Programming for the Web with JavaScript**](https://www.edx.org/course/programming-for-the-web-with-javascript)
+- [**CS50's Web Programming with Python and JavaScript**](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
