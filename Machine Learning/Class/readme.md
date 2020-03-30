@@ -1,9 +1,9 @@
 # Machine Learning Class #1 info
 
-Name              | Role             | Slack             |
+Name              | Role             | Slack             | Course
 ------------------|------------------|-------------------|
 Oleksiy Shashlyuk | ML Lead          |@Oleksiy Shashlyuk |
-Dymytr            | Group fasilitator|@Dymytr.           |
+Dymytr            | Group facilitator|@Dymytr.           | https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 
 
 
