@@ -32,3 +32,4 @@ Anton Bazhan             | Anton                    |---|---|---|---|---|
 Nikita Andriukhin        | Nikita Andriukhin        |---|---|---|---|---|
 Vitaliy Sakhno           | Vitaliy Sakhno           |---|---|---|---|---|
 Natalia Panakhyd         | Natalia                  |---|---|---|---|---|
+Tatiana Agameriants      | Tatiana                  |---|---|---|---|---|
