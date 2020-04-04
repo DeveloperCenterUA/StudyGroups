@@ -59,16 +59,5 @@ You’ll learn to build applications that can support any front-end, and scale t
 - [**HTTP & Web Servers**](https://www.udacity.com/course/http-web-servers--ud303) 
 - [**Designing RESTful APIs**](https://www.udacity.com/course/designing-restful-apis--ud388)
 
-## Coursera
-- [**Programming Foundations with JavaScript, HTML and CSS**](https://www.coursera.org/learn/duke-programming-web)
-- [**HTML, CSS, and Javascript for Web Developers**](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-- [**Front-End Web Development with React**](https://www.coursera.org/learn/front-end-react)
-- [**Front-End JavaScript Frameworks: Angular**](https://www.coursera.org/learn/angular)
-- [**Server-side Development with NodeJS, Express and MongoDB**](https://www.coursera.org/learn/server-side-nodejs)
-
-## edX
-- [**Exploring GraphQL: A Query Language for APIs**](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
-- [**Web App Development with the Power of Node.js**](https://www.edx.org/course/web-app-development-with-the-power-of-nodejs)
-- [**Web Security Fundamentals**](https://www.edx.org/course/web-security-fundamentals)
-- [**Programming for the Web with JavaScript**](https://www.edx.org/course/programming-for-the-web-with-javascript)
-- [**CS50's Web Programming with Python and JavaScript**](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+## Posible courses
+[**Here**](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/) is the list of completely free Coursera courses (with graded assignments).
